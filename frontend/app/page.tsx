@@ -131,7 +131,7 @@ export default function LandingPage() {
               )}
             </motion.button>
             <a
-              href="https://github.com/yourusername/nexusops-agent"
+              href="https://github.com/kajalkamble0713-jpg/NexusOps-_Agent"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#94A3B8] hover:text-[#F8FAFC] font-medium px-6 py-3.5 rounded-xl border border-[rgba(148,163,184,0.12)] hover:border-[rgba(148,163,184,0.3)] transition-all duration-200"

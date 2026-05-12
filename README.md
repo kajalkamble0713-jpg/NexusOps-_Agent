@@ -76,8 +76,8 @@ User Input (Natural Language)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nexusops-agent.git
-cd nexusops-agent
+git clone https://github.com/kajalkamble0713-jpg/NexusOps-_Agent.git
+cd NexusOps-_Agent
 ```
 
 ### 2. Set Up MongoDB Atlas
